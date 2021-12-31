@@ -21,18 +21,18 @@
                     </thead>
                     <tbody>
                         <?php
-                            getTerm("jaki", "../dictionary.csv", 1);
-                            getTerm("lawa", "../dictionary.csv", 1);
-                            getTerm("pipi", "../dictionary.csv", 1);
-                            getTerm("lili", "../dictionary.csv", 1);
-                            getTerm("telo", "../dictionary.csv", 1);
-                            getTerm("seli", "../dictionary.csv", 1);
-                            getTerm("sewi", "../dictionary.csv", 1);
-                            getTerm("tomo", "../dictionary.csv", 1);
-                            getTerm("nasa", "../dictionary.csv", 1);
-                            getTerm("pi", "../dictionary.csv", 1);
-                            getTerm("mute", "../dictionary.csv", 1);
-                            getTerm("kama", "../dictionary.csv", 1);
+                            getTerm("jaki", "dictionary.csv", 1);
+                            getTerm("lawa", "dictionary.csv", 1);
+                            getTerm("pipi", "dictionary.csv", 1);
+                            getTerm("lili", "dictionary.csv", 1);
+                            getTerm("telo", "dictionary.csv", 1);
+                            getTerm("seli", "dictionary.csv", 1);
+                            getTerm("sewi", "dictionary.csv", 1);
+                            getTerm("tomo", "dictionary.csv", 1);
+                            getTerm("nasa", "dictionary.csv", 1);
+                            getTerm("pi", "dictionary.csv", 1);
+                            getTerm("mute", "dictionary.csv", 1);
+                            getTerm("kama", "dictionary.csv", 1);
                         ?>
                     </tbody>
                 </table>

@@ -21,12 +21,12 @@
                     </thead>
                     <tbody>
                         <?php
-                            getTerm("e", "../dictionary.csv", 1);
-                            getTerm("li", "../dictionary.csv", 1);
-                            getTerm("soweli", "../dictionary.csv", 1);
-                            getTerm("kala", "../dictionary.csv", 1);
-                            getTerm("ona", "../dictionary.csv", 1);
-                            getTerm("lukin", "../dictionary.csv", 1);
+                            getTerm("e", "dictionary.csv", 1);
+                            getTerm("li", "dictionary.csv", 1);
+                            getTerm("soweli", "dictionary.csv", 1);
+                            getTerm("kala", "dictionary.csv", 1);
+                            getTerm("ona", "dictionary.csv", 1);
+                            getTerm("lukin", "dictionary.csv", 1);
                         ?>
                     </tbody>
                 </table>

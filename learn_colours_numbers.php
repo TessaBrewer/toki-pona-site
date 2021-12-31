@@ -21,19 +21,19 @@
                     </thead>
                     <tbody>
                         <?php
-                            getTerm("kule", "../dictionary.csv", 1);
-                            getTerm("loje", "../dictionary.csv", 1);
-                            getTerm("laso", "../dictionary.csv", 1);
-                            getTerm("jelo", "../dictionary.csv", 1);
-                            getTerm("kasi", "../dictionary.csv", 1);
-                            getTerm("pimeja", "../dictionary.csv", 1);
-                            getTerm("walo", "../dictionary.csv", 1);
-                            getTerm("nanpa", "../dictionary.csv", 1);
-                            getTerm("wan", "../dictionary.csv", 1);
-                            getTerm("tu", "../dictionary.csv", 1);
-                            getTerm("luka", "../dictionary.csv", 2);
-                            getTerm("mute", "../dictionary.csv", 2);
-                            getTerm("ale ali", "../dictionary.csv", 2);
+                            getTerm("kule", "dictionary.csv", 1);
+                            getTerm("loje", "dictionary.csv", 1);
+                            getTerm("laso", "dictionary.csv", 1);
+                            getTerm("jelo", "dictionary.csv", 1);
+                            getTerm("kasi", "dictionary.csv", 1);
+                            getTerm("pimeja", "dictionary.csv", 1);
+                            getTerm("walo", "dictionary.csv", 1);
+                            getTerm("nanpa", "dictionary.csv", 1);
+                            getTerm("wan", "dictionary.csv", 1);
+                            getTerm("tu", "dictionary.csv", 1);
+                            getTerm("luka", "dictionary.csv", 2);
+                            getTerm("mute", "dictionary.csv", 2);
+                            getTerm("ale ali", "dictionary.csv", 2);
                         ?>
                     </tbody>
                 </table>

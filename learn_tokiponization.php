@@ -21,9 +21,9 @@
                     </thead>
                     <tbody>
                         <?php
-                            getTerm("kalama", "../dictionary.csv", 1);
-                            getTerm("musi", "../dictionary.csv", 1);
-                            getTerm("ma", "../dictionary.csv", 1);
+                            getTerm("kalama", "dictionary.csv", 1);
+                            getTerm("musi", "dictionary.csv", 1);
+                            getTerm("ma", "dictionary.csv", 1);
                         ?>
                     </tbody>
                 </table>
