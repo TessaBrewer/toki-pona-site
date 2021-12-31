@@ -1,9 +1,9 @@
 <script src="https://kit.fontawesome.com/f3a58b70c8.js" crossorigin="anonymous"></script> <!-- Gives us some nice icons to use, I take absolutely no create for creating them, only for selecting and incorporating them -->
-<link rel="icon" href="/~0420bullwinkle/final_project/favicon.ico"> <!-- Set the website's favicon, not strictly necessary, but better safe than sorry -->
-<link rel="stylesheet" type="text/css" href="/~0420bullwinkle/final_project/styles/mobile_styles.css"> <!-- Include the file with all of the styling specifically designed for narrower displays (mutually exclusive with the wide styling) -->
-<link rel="stylesheet" type="text/css" href="/~0420bullwinkle/final_project/styles/desktop_styles.css"> <!-- #Include the file with all of the styling specifically designed for widder screens (mutually exclusive with the narrow styling) -->
-<link rel="stylesheet" type="text/css" href="/~0420bullwinkle/final_project/styles/styles.css"> <!-- Include the file with all of the styling that applies regardless of the device accessing our site -->
-<script src="/~0420bullwinkle/final_project/scripts.js" type="text/javascript"></script>
+<link rel="icon" href="favicon.ico"> <!-- Set the website's favicon, not strictly necessary, but better safe than sorry -->
+<link rel="stylesheet" type="text/css" href="styles/mobile_styles.css"> <!-- Include the file with all of the styling specifically designed for narrower displays (mutually exclusive with the wide styling) -->
+<link rel="stylesheet" type="text/css" href="styles/desktop_styles.css"> <!-- #Include the file with all of the styling specifically designed for widder screens (mutually exclusive with the narrow styling) -->
+<link rel="stylesheet" type="text/css" href="styles/styles.css"> <!-- Include the file with all of the styling that applies regardless of the device accessing our site -->
+<script src="scripts.js" type="text/javascript"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1"> <!--Set Viewport for mobile devices, should improve our website's rendering -->
 
 <?php

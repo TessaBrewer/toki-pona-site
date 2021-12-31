@@ -38,7 +38,7 @@ window.onload = function()
     {
         homeButton.addEventListener("click", function()
         {
-            window.location.href = "/~0420bullwinkle/final_project/index.php";
+            window.location.href = "index.php";
         });
     }
 
@@ -50,7 +50,7 @@ window.onload = function()
     {
         aboutButton.addEventListener("click", function()
         {
-            window.location.href = "/~0420bullwinkle/final_project/about.php";
+            window.location.href = "about.php";
         });
     }
 
@@ -62,7 +62,7 @@ window.onload = function()
     {
         dictionaryButton.addEventListener("click", function()
         {
-            window.location.href = "/~0420bullwinkle/final_project/dictionary.php";
+            window.location.href = "dictionary.php";
         });
     }
 
@@ -74,7 +74,7 @@ window.onload = function()
     {
         learnButton.addEventListener("click", function()
         {
-            window.location.href = "/~0420bullwinkle/final_project/learn/learn_home.php";
+            window.location.href = "learn/learn_home.php";
         });
     }
 

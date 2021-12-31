@@ -5,7 +5,7 @@
         <title>Toki Pona Home</title>
         <meta charset="utf-8"/>
         <?php include("boilerplate.php");?>
-        <link rel="stylesheet" type="text/css" href="/~0420bullwinkle/final_project/styles/home_styles.css">
+        <link rel="stylesheet" type="text/css" href="styles/home_styles.css">
     </head>
     <body>
         <h1 lang="art-x-tok" class="topGreeting">kama pona!</h1> <!-- the 'art' tag specifies an artistic language, ideally I'd use toki pona's code, but it has yet to be assigned an official code, I use the 'tok' code due to it's tentative status in TP's application: https://iso639-3.sil.org/sites/iso639-3/files/change_requests/2017/2017-035_tok.pdf -->
