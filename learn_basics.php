@@ -4,10 +4,10 @@
     <head>
         <title>Lesson 1: The Basics</title>
         <meta charset="utf-8"/>
-        <?php include("../boilerplate.php");?>
+        <?php include("boilerplate.php");?>
     </head>
     <body>
-        <?php include("../header.php");?>
+        <?php include("header.php");?>
         <main>
             <h1>Lesson One: The Basics</h1>
             <div id="vocab">

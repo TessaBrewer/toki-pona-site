@@ -74,7 +74,7 @@ window.onload = function()
     {
         learnButton.addEventListener("click", function()
         {
-            window.location.href = "learn/learn_home.php";
+            window.location.href = "learn_home.php";
         });
     }
 

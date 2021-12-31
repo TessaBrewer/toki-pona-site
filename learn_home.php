@@ -4,10 +4,10 @@
     <head>
         <title>Learn Toki Pona</title>
         <meta charset="utf-8"/>
-        <?php include("../boilerplate.php");?>
+        <?php include("boilerplate.php");?>
     </head>
     <body>
-        <?php include("../header.php");?>
+        <?php include("header.php");?>
         <main>
             <h1 lang="art-x-tok">ona li jo kama e sona pi toki pona tan seme?</h1>
             <h2>Why learn Toki Pona?</h2>

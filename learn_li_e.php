@@ -4,10 +4,10 @@
     <head>
         <title>Lesson 2: Sentence Structure</title>
         <meta charset="utf-8"/>
-        <?php include("../boilerplate.php");?>
+        <?php include("boilerplate.php");?>
     </head>
     <body>
-        <?php include("../header.php");?>
+        <?php include("header.php");?>
         <main>
             <h1>Lesson Two: Sentence Structure</h1>
             <div id="vocab">
